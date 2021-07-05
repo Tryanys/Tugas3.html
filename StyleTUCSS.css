@@ -1,0 +1,23 @@
+div{
+    background-color: aqua;
+    width: 400px;
+    /* lebar */
+    padding: 25px;
+    /* Ruang antara konten dan border */
+    border: 15px solid black;
+    /* garis antara padding dan margin - ukuran style - color */
+    margin: 20px;
+}
+.pc{
+    border-style: double;
+    text-align: right;
+    background-color: chartreuse;
+}
+#pid{
+    border-style: dotted dashed solid double;
+    /* atas anan bawah kiri */
+    color: coral;
+}
+h2,p{
+    text-align: center;
+}
